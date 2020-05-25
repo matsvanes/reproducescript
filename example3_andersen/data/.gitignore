@@ -1,0 +1,6 @@
+# The raw data from Andersen (2018) should be copied here. The data can be downloaded from https://zenodo.org/record/1134776#.XsukasgzaUl . Also see https://www.frontiersin.org/articles/10.3389/fnins.2018.00261/full#h3
+# After copying the data, it should contain the following directories:
+# FreeSurfer
+# grand_averages
+# sub-01
+# sub-02
