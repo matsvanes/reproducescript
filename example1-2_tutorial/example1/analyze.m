@@ -6,10 +6,10 @@ ft_default = [];
 ft_default.checksize = inf;
 
 % enable reproducescript
-ft_default.reproducescript = '/project_qnap/3010000.02/reproducescript/tutorial/example1/reproduce/';
+ft_default.reproducescript = 'reproduce/';
 
-data_dir = '/project_qnap/3010000.02/reproducescript/tutorial/rawdata/';
-results_dir = '/project_qnap/3010000.02/reproducescript/tutorial/example1/analysis/';
+data_dir = '../rawdata/';
+results_dir = 'analysis/';
 
 % extract epochs
 cfg = [];
