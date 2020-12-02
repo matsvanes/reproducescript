@@ -1,7 +1,7 @@
 % this script contains meta deta like file directories
 
 all_subjects = [1 2];
-home_dir = '/project_qnap/3010000.02/reproducescript/andersen/';
+home_dir = [];
 analysis_dir = [home_dir, 'analysis/'];
 data_dir = [home_dir, 'data/'];
 script_dir = [home_dir, 'omission_frontiers/FieldTrip/'];
