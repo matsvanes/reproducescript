@@ -10,6 +10,7 @@ ft_default.reproducescript = 'reproduce/';
 
 data_dir = '../rawdata/';
 results_dir = 'analysis/';
+mkdir(results_dir)
 
 % extract epochs
 cfg = [];
